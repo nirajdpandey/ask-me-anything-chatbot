@@ -28,7 +28,7 @@ If you get the message saying `congratualtions...!` then you are good to go else
 versions. One way could  be to follow following instructions. 
 ***
 ```
-git clone git@github.com:nirajdevpandey/Ask_me_anything-chatbot.git
+git clone git@github.com:nirajdpandey/Ask_me_anything-chatbot.git
 
 cd Ask_me_anything-chatbot
 
